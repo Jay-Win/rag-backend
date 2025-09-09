@@ -1,0 +1,21 @@
+data_path: "data"
+chroma_path: "chroma"
+
+loaders:
+  pdf: true
+  docx: true
+  pptx: true
+  html: true
+  csv: true
+  doc: true
+  rtf: true
+  md: true
+  txt: true
+  excel: true
+  images_ocr: true
+  video: true
+  
+chunking:
+  text:
+    chunk_size: 800
+    overlap: 80

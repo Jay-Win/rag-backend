@@ -1,5 +1,7 @@
 pypdf
-langchain
-chromadb # Vector storage
+langchain>=0.2
+langchain-community>=0.2
+langchain-text-splitters>=0.2
+chromadb
 pytest
 boto3
