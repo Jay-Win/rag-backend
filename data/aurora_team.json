@@ -1,0 +1,10 @@
+{
+  "project": "AURORA",
+  "kickoff_date": "2025-07-02",
+  "roles": {
+    "frontend": "Laura Meier",
+    "backend": "Amir Khan",
+    "ml_engineer": "Daniel Fischer"
+  },
+  "notes": "Aurora prototype scheduled for late Q3. Tech stack React + Next.js, Node.js + PostgreSQL."
+}

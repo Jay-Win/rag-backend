@@ -1,0 +1,13 @@
+{
+  "project": "OPAL",
+  "phase": "Phase 1",
+  "allocated_budget": 45000,
+  "currency": "EUR",
+  "breakdown": {
+    "development": 30000,
+    "design": 10000,
+    "contingency": 5000
+  },
+  "approved_by": "Sarah Klein",
+  "date": "2025-08-22"
+}

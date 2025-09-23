@@ -1,0 +1,988 @@
+Return-Path: <bounce-mc.us20_113153038.17650881-decc2bb769@mail89.atl18.mcdlv.net>
+X-Original-To: peter.streibel@jay-win.de
+Delivered-To: peter.streibel@jay-win.de
+Received-SPF: pass (mail89.atl18.mcdlv.net: 198.2.139.89 is authorized to use 'bounce-mc.us20_113153038.17650881-decc2bb769@mail89.atl18.mcdlv.net' in 'mfrom' identity (mechanism 'ip4:198.2.139.89' matched)) receiver=Jay-Win3; identity=mailfrom; envelope-from="bounce-mc.us20_113153038.17650881-decc2bb769@mail89.atl18.mcdlv.net"; helo=mail89.atl18.mcdlv.net; client-ip=198.2.139.89
+Authentication-Results: jay-win.de; dmarc=pass (p=quarantine dis=none) header.from=xhauer.com
+Authentication-Results: jay-win.de;
+	dkim=pass (2048-bit key) header.d=xhauer.com header.i=michael.asshauer@xhauer.com header.b=d6JGS1zT
+Received: from mail89.atl18.mcdlv.net (mail89.atl18.mcdlv.net [198.2.139.89])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by jay-win.de (Postfix) with ESMTPS id 46CF6F0F989D
+	for <peter.streibel@jay-win.de>; Wed, 18 Dec 2024 15:46:06 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=xhauer.com; s=k3;
+	t=1734533121; x=1734793621; i=michael.asshauer@xhauer.com;
+	bh=PexVcLa3QM78LBptSO9By0hf2lW9rAoguPHj5dnFqG0=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:X-MC-User:Feedback-ID:
+	 List-ID:List-Unsubscribe:List-Unsubscribe-Post:Content-Type:
+	 MIME-Version:CC:Date:Subject:From;
+	b=d6JGS1zTa6Z3mKjaSaDpByhQvp0I17VRZKKb2OivI4nrbheP0MGsoBMv5/E1Z6N/o
+	 xtFKSKiRNIk418GZsh8U/U4AbRBFN46wWARjItkZhDl8TdgNT/5zd9F8dtnsX8fpkx
+	 9PSh3SJ4DUaJ4pI6KYjZ40RT/AHAq9aN90rR5TQBrN9jZfSrRa23xsIP9ydlvKjss6
+	 rV24j/QkMJUhi5mX9d1EePs/+F4B3ngov7yrtCKC3KUbytja5LgiiclDzKz3LAqMaI
+	 XiLFNTYvY2pav0lQf7u+TYz6ong8R+VfJavsEU+PgMb2Iq0UWvVd4OpbZKbMmrZAzr
+	 4YeVcen7JHdGA==
+Received: from localhost (localhost [127.0.0.1])
+	by mail89.atl18.mcdlv.net (Mailchimp) with ESMTP id 4YCxL90tVkzB6KvWG
+	for <peter.streibel@jay-win.de>; Wed, 18 Dec 2024 14:45:21 +0000 (GMT)
+Subject: =?utf-8?Q?Linkedin=20Agentur=20ausw=C3=A4hlen=3F=20Beachte=20diese=2016=20Kriterien?=
+From: Michael Asshauer <michael.asshauer@xhauer.com>
+Reply-To: =?utf-8?Q?Michael=20Asshauer?= <michael.asshauer@xhauer.com>
+To: =?utf-8?Q?Peter?= <peter.streibel@jay-win.de>
+Date: Wed, 18 Dec 2024 14:45:12 +0000
+Message-ID: <7dd84a598ac78e0ca541cea95.decc2bb769.20241218144501.05bc51e5d4.66f5d942@mail89.atl18.mcdlv.net>
+X-Mailer: Mailchimp Mailer - **CID05bc51e5d4decc2bb769**
+X-Campaign: mailchimp7dd84a598ac78e0ca541cea95.05bc51e5d4
+X-campaignid: mailchimp7dd84a598ac78e0ca541cea95.05bc51e5d4
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=7dd84a598ac78e0ca541cea95&id=05bc51e5d4&e=decc2bb769
+X-MC-User: 7dd84a598ac78e0ca541cea95
+Feedback-ID: 113153038:113153038.17650881:us20:mc
+List-ID: 7dd84a598ac78e0ca541cea95mc list <7dd84a598ac78e0ca541cea95.35797.list-id.mcsv.net>
+Precedence: bulk
+X-Accounttype: pr
+List-Unsubscribe: <https://xhauer.us20.list-manage.com/unsubscribe?u=7dd84a598ac78e0ca541cea95&id=4701264400&t=h&e=decc2bb769&c=05bc51e5d4>, <mailto:unsubscribe-mc.us20_7dd84a598ac78e0ca541cea95.05bc51e5d4-decc2bb769@unsubscribe.mailchimpapp.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_2060981469"
+MIME-Version: 1.0
+X-MailScanner-ID: 46CF6F0F989D.AD1AA
+X-MailScanner: Found to be clean
+X-MailScanner-From: bounce-mc.us20_113153038.17650881-decc2bb769@mail89.atl18.mcdlv.net
+X-Spam-Status: No
+
+--_----------=_MCPart_2060981469
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Dein handkuratiertes Marketing-Wissen =F0=9F=91=89
+
+Hi Peter
+
+Wie ich pers=C3=B6nlich eine LinkedIn Marketing-Agentur ausw=C3=A4hlen w=C3=
+=BCrde?
+
+Anhand der folgenden 16 Kriterien.
+
+Denn jeden Tag spreche ich mit Interessenten, die mit ihrer Agentur nicht h=
+appy sind.
+
+Darum habe ich eine Checkliste erstellt, worauf ich selbst achten w=C3=BCrd=
+e.
+
+Ich hoffe, sie ist hilfreich f=C3=BCr dich:
+
+(keine Lust diese Mail zu lesen? Ich habe dir alles hier im neuen YouTube V=
+ideo (https://xhauer.us20.list-manage.com/track/click?u=3D7dd84a598ac78e0ca=
+541cea95&id=3D211cae9b74&e=3Ddecc2bb769) aufgenommen)
+
+1 =E2=80=93 Macht die Agentur LinkedIn Marketing & Ads auch f=C3=BCr sich s=
+elbst?
+
+Wie sollen sie es sonst f=C3=BCr ihre Kunden machen? ;)
+
+2 =E2=80=93 Sind sie 100 % spezialisiert auf eure Branche?
+
+Learnings mit anderen Kunden eurer Branche sind unbezahlbar f=C3=BCr euch.=
+ Ihr wollt nicht bei Jugend Forscht mitmachen.
+
+3 =E2=80=93 Leben sie Immer-F=C3=BCr-Euch-Da?
+
+Habt ihr einen pers=C3=B6nlichen Ansprechpartner, der stets erreichbar ist?
+
+4 =E2=80=93 Kommen sie proaktiv auf euch zu mit Ideen und Strategien?
+
+Pr=C3=BCfe ihre strategisch-taktischen F=C3=A4higkeiten im Kennenlerngespr=
+=C3=A4ch.
+
+5 =E2=80=93 Nutzen sie propriet=C3=A4re Methoden oder Technologien, die euc=
+h einen unfairen Vorteil verschaffen?
+
+Praxisbeispiele im Video unten. =F0=9F=91=87
+
+6 =E2=80=93 Sind alle Spezialisten inhouse und dauerhaft in eurem Projekt?
+
+Statt irgendwelchen Drittanbietern oder Freelancern auf Bali.
+
+7 =E2=80=93 Arbeitet euer Experten-Team jeden Tag f=C3=BCr euch =E2=80=93 o=
+ptimieren und produzieren sie kontinuierlich?
+
+Statt nur 1x im Monat f=C3=BCr 3 Stunden.
+
+8 =E2=80=93 Gibt es einen Prozess f=C3=BCr interne Qualit=C3=A4tskontrolle?
+
+Inhaltlich als auch was Rechtschreibfehler angeht, erleben Kunden manchmal=
+ wildeste Dinge.
+
+9 =E2=80=93 Bekommt ihr ein tagesaktuelles Reporting und k=C3=B6nnt jederze=
+it die Zahlen, Daten, Fakten eurer Ergebnisse einsehen?
+
+Praxisbeispiel im Video unten. =F0=9F=91=87
+
+10 =E2=80=93 Gibt es regelm=C3=A4=C3=9Fige gemeinsame Workshops, in denen e=
+ure n=C3=A4chsten strategischen und taktischen Schritte erarbeitet werden?
+
+11 =E2=80=93 Fragen sie regelm=C3=A4=C3=9Fig euer Feedback ab, um eure Zusa=
+mmenarbeit noch besser zu machen?
+
+12 =E2=80=93 Gibt es klare Prozesse der Zusammenarbeit und Kommunikation?
+
+Ihr wollt stets volle Transparenz, woran gerade wie und warum gearbeitet wi=
+rd.
+
+13 =E2=80=93 Haben sie das Mindset, jeden Tag sich selbst schlagen zu wolle=
+n?
+
+Sagen sie auch nicht zu all euren Ideen immer nur Ja und Amen, sondern gebe=
+n Empfehlungen aus ihrer Expertise?
+
+14 =E2=80=93 Beherrschen sie nicht nur LinkedIn-Marketing, sondern wissen a=
+uch, wie man dadurch die Pipeline f=C3=BCllt?
+
+Sodass ihr Nachfrage aufbaut und daraus gute Verkaufsgelegenheiten erhaltet=
+.
+
+15 =E2=80=93 Sind sie offen, ihr Wissen an euch weiterzugeben?
+
+Arbeiten sie im Mindset der F=C3=BClle und nicht des Mangels? "Wer lehrt, l=
+ernt doppelt" sagte schon Goethe.
+
+16 =E2=80=93 Wird der realistische Zeithorizont kommuniziert und nicht irge=
+ndwelche unrealistischen Versprechen gemacht, nur um euch abzuschlie=C3=9Fe=
+n?
+
+Wenn du =C3=BCberall einen Haken dranmachen kannst, wird=E2=80=99s top f=C3=
+=BCr euch. =E2=9C=85
+
+Zum Video:
+
+Ich habe ein neues YouTube-Video ver=C3=B6ffentlicht, wo ich alle Praxisbei=
+spiele + ein weiteres Kriterium zeige, das alle f=C3=BCr super wichtig halt=
+en, das du aber unbedingt vergessen solltest:
+
+=F0=9F=91=89 https://xhauer.us20.list-manage.com/track/click?u=3D7dd84a598a=
+c78e0ca541cea95&id=3D1b29a8c1c1&e=3Ddecc2bb769
+
+Schau gern rein. Lohnt sich.
+
+Hier geht's zum Video:
+
+https://xhauer.us20.list-manage.com/track/click?u=3D7dd84a598ac78e0ca541cea=
+95&id=3D98d0faacce&e=3Ddecc2bb769
+
+Lass mir gerne deine Gedanken als Kommentar unter dem Video.
+
+Viel Freude beim Ansehen,
+
+Dein Michael
+
+https://xhauer.us20.list-manage.com/track/click?u=3D7dd84a598ac78e0ca541cea=
+95&id=3De8c4d94e2b&e=3Ddecc2bb769
+
+PS:
+Melde dich an zum Live-Stream am Dienstag 14.1. um 12 Uhr "Sichtbarkeit + L=
+ead-Generierung mit LinkedIn unter Marktpreis" =E2=9E=94 Hier anmelden (htt=
+ps://xhauer.us20.list-manage.com/track/click?u=3D7dd84a598ac78e0ca541cea95&=
+id=3D08073147be&e=3Ddecc2bb769)
+
+
+Ich sende dir und =C3=BCber 20.000 Entscheidern und Marketing-Verantwortlic=
+hen jede Woche handkuratierte Inspirationen zu B2B-Marketing, die es so nir=
+gends anders gibt. Du kannst dich jederzeit hier (https://xhauer.us20.list-=
+manage.com/unsubscribe?u=3D7dd84a598ac78e0ca541cea95&id=3D4701264400&t=3Db&=
+e=3Ddecc2bb769&c=3D05bc51e5d4)  abmelden. Antworte mir gerne auf diese E-Ma=
+il, ich lese und schreibe immer pers=C3=B6nlich.
+
+Michael Asshauer =E2=80=A2 Gr=C3=BCnder & Gesch=C3=A4ftsf=C3=BChrer =E2=80=
+=A2 XHAUER Media GmbH =E2=80=A2 Zollergasse 13 =E2=80=A2 1070 Wien =E2=80=
+=A2 FN571965a Handelsgericht Wien =E2=80=A2 Ust. ID: ATU77725259 =E2=80=A2
+michael.asshauer@xhauer.com (https://xhauer.us20.list-manage.com/track/clic=
+k?u=3D7dd84a598ac78e0ca541cea95&id=3D0ddfcfbe2e&e=3Ddecc2bb769)  =E2=80=A2=
+ xhauer.com (https://xhauer.us20.list-manage.com/track/click?u=3D7dd84a598ac=
+78e0ca541cea95&id=3Dbc1592a665&e=3Ddecc2bb769)
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+--_----------=_MCPart_2060981469
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <!-- NAME: SIMPLE TEXT -->
+        <!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+        <meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <title>Linkedin Agentur ausw=C3=A4hlen? Beachte diese 16 Kriterien<=
+/title>
+
+    <style type=3D"text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=3Dtel],a[href^=3Dsms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		table[align=3Dleft]{
+			float:left;
+		}
+		table[align=3Dright]{
+			float:right;
+		}
+		#bodyCell{
+			padding:10px;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+		body,#bodyTable{
+			background-color:#FFFFFF;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+		}
+		#bodyCell{
+			border-top:0;
+		}
+		.templateContainer{
+			border:0;
+		}
+		h1{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:26px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h2{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:22px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h3{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:20px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h4{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		#templateHeader{
+			border-top:0;
+			border-bottom:0;
+		}
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+			color:#007C89;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateBody{
+			border-top:0;
+			border-bottom:0;
+		}
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{
+			color:#007C89;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateFooter{
+			border-top:0;
+			border-bottom:0;
+		}
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+			color:#202020;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCapti=
+onBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcn=
+ImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionR=
+ightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRi=
+ghtImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCar=
+dRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImage=
+CardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter=
+ .mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCapt=
+ionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-chil=
+d .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h1{
+			font-size:22px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h2{
+			font-size:20px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h3{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h4{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table.mcnBoxedTextContentContainer td.mcnTextContent,td.mcnBoxedTextConte=
+ntContainer td.mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td#templateHeader td.mcnTextContent,td#templateHeader td.mcnTextContent p=
+{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td#templateBody td.mcnTextContent,td#templateBody td.mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td#templateFooter td.mcnTextContent,td#templateFooter td.mcnTextContent p=
+{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}</style></head>
+    <body style=3D"background:#FFFFFF none no-repeat center/cover;height: 1=
+00%;margin: 0;padding: 0;width: 100%;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;background-color: #FFFFFF;background-image: none;backgr=
+ound-repeat: no-repeat;background-position: center;background-size: cover;"=
+>
+        <!--
+-->
+        <!--[if !gte mso 9]><!----><span class=3D"mcnPreviewText" style=3D"=
+display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px=
+; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">Dein handku=
+ratiertes Marketing-Wissen =F0=9F=91=89</span><!--<![endif]-->
+        <!--
+-->
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"backgrou=
+nd:#FFFFFF none no-repeat center/cover;border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;background-c=
+olor: #FFFFFF;background-image: none;background-repeat: no-repeat;backgroun=
+d-position: center;background-size: cover;">
+                <tr>
+                    <td align=3D"left" valign=3D"top" id=3D"bodyCell" style=
+=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;height: 100%;margin: 0;padding: 10px;width: 100%;border-to=
+p: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <!--[if (gte mso 9)|(IE)]>
+                        <table align=3D"center" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                        <tr>
+                        <td align=3D"center" valign=3D"top" width=3D"600" s=
+tyle=3D"width:600px;">
+                        <![endif]-->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer" style=3D"border-collapse: =
+collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !important;=
+">
+                            <tr>
+                                <td valign=3D"top" id=3D"templateHeader" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;border-top: 0;border-bottom: 0;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" sty=
+le=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-t=
+able-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+		=09
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: colla=
+pse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;float: left;" width=3D"100%" class=3D"mcnTex=
+tContentContainer">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18=
+px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;word-break: break-word;color: #202020;font-family: Helvetic=
+a;font-size: 16px;line-height: 150%;text-align: left;">
+
+                            Hi Peter<br>
+<br>
+Wie ich pers=C3=B6nlich eine LinkedIn Marketing-Agentur ausw=C3=A4hlen w=C3=
+=BCrde?<br>
+<br>
+Anhand der folgenden 16 Kriterien.<br>
+<br>
+<br>
+Denn jeden Tag spreche ich mit Interessenten, die mit ihrer Agentur nicht h=
+appy sind.<br>
+<br>
+Darum habe ich eine Checkliste erstellt, worauf ich selbst achten w=C3=BCrd=
+e.<br>
+<br>
+Ich hoffe, sie ist hilfreich f=C3=BCr dich:<br>
+<br>
+<br>
+<em>(keine Lust diese Mail zu lesen? Ich habe dir&nbsp;alles <a href=3D"htt=
+ps://xhauer.us20.list-manage.com/track/click?u=3D7dd84a598ac78e0ca541cea95&=
+id=3D54348b5279&e=3Ddecc2bb769" target=3D"_blank" style=3D"mso-line-height-=
+rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;col=
+or: #007C89;font-weight: normal;text-decoration: underline;">hier im neuen=
+ YouTube Video</a> aufgenommen)</em><br>
+<br>
+<br>
+<strong>1 =E2=80=93&nbsp;</strong>Macht die Agentur LinkedIn Marketing &amp=
+; Ads auch f=C3=BCr sich selbst?<br>
+<br>
+Wie sollen sie es sonst f=C3=BCr ihre Kunden machen? ;)<br>
+<br>
+<br>
+<strong>2 =E2=80=93&nbsp;</strong>Sind sie 100 % spezialisiert auf eure Bra=
+nche?<br>
+<br>
+Learnings mit anderen Kunden eurer Branche sind unbezahlbar f=C3=BCr euch.=
+ Ihr wollt nicht bei Jugend Forscht mitmachen.<br>
+<br>
+<br>
+<strong>3 =E2=80=93&nbsp;</strong>Leben sie Immer-F=C3=BCr-Euch-Da?<br>
+<br>
+Habt ihr einen pers=C3=B6nlichen Ansprechpartner, der stets erreichbar ist?=
+<br>
+<br>
+<br>
+<strong>4 =E2=80=93&nbsp;</strong>Kommen sie proaktiv auf euch zu mit Ideen =
+und Strategien?<br>
+<br>
+Pr=C3=BCfe ihre strategisch-taktischen F=C3=A4higkeiten im Kennenlerngespr=
+=C3=A4ch.<br>
+<br>
+<br>
+<strong>5 =E2=80=93&nbsp;</strong>Nutzen sie propriet=C3=A4re Methoden oder =
+Technologien, die euch einen unfairen Vorteil verschaffen?<br>
+<br>
+Praxisbeispiele im Video unten. =F0=9F=91=87<br>
+<br>
+<br>
+<strong>6 =E2=80=93&nbsp;</strong>Sind alle Spezialisten inhouse und dauerh=
+aft in eurem Projekt?<br>
+<br>
+Statt irgendwelchen Drittanbietern oder Freelancern auf Bali.<br>
+<br>
+<br>
+<strong>7 =E2=80=93&nbsp;</strong>Arbeitet euer Experten-Team jeden Tag f=
+=C3=BCr euch =E2=80=93 optimieren und produzieren sie kontinuierlich?<br>
+<br>
+Statt nur 1x im Monat f=C3=BCr 3 Stunden.<br>
+<br>
+<br>
+<strong>8 =E2=80=93&nbsp;</strong>Gibt es einen Prozess f=C3=BCr interne Qu=
+alit=C3=A4tskontrolle?<br>
+<br>
+Inhaltlich als auch was Rechtschreibfehler angeht, erleben Kunden manchmal=
+ wildeste Dinge.<br>
+<br>
+<br>
+<strong>9 =E2=80=93&nbsp;</strong>Bekommt ihr ein tagesaktuelles Reporting=
+ und k=C3=B6nnt jederzeit die Zahlen, Daten, Fakten eurer Ergebnisse einsehe=
+n?<br>
+<br>
+Praxisbeispiel im Video unten. =F0=9F=91=87<br>
+<br>
+<br>
+<strong>10 =E2=80=93&nbsp;</strong>Gibt es regelm=C3=A4=C3=9Fige gemeinsame =
+Workshops, in denen eure n=C3=A4chsten strategischen und taktischen Schrit=
+te erarbeitet werden?<br>
+<br>
+<br>
+<strong>11 =E2=80=93&nbsp;</strong>Fragen sie regelm=C3=A4=C3=9Fig euer Fee=
+dback ab, um eure Zusammenarbeit noch besser zu machen?<br>
+<br>
+<br>
+<strong>12 =E2=80=93&nbsp;</strong>Gibt es klare Prozesse der Zusammenarbei=
+t und Kommunikation?<br>
+<br>
+Ihr wollt stets volle Transparenz, woran gerade wie und warum gearbeitet wi=
+rd.<br>
+<br>
+<br>
+<strong>13 =E2=80=93&nbsp;</strong>Haben sie das Mindset, jeden Tag sich se=
+lbst schlagen zu wollen?<br>
+<br>
+Sagen sie auch nicht zu all euren Ideen immer nur Ja und Amen, sondern gebe=
+n Empfehlungen aus ihrer Expertise?<br>
+<br>
+<br>
+<strong>14 =E2=80=93&nbsp;</strong>Beherrschen sie nicht nur LinkedIn-Marke=
+ting, sondern wissen auch, wie man dadurch die Pipeline f=C3=BCllt?<br>
+<br>
+Sodass ihr Nachfrage aufbaut und daraus gute Verkaufsgelegenheiten erhaltet=
+.<br>
+<br>
+<br>
+<strong>15 =E2=80=93&nbsp;</strong>Sind sie offen, ihr Wissen an euch weite=
+rzugeben?<br>
+<br>
+Arbeiten sie im Mindset der F=C3=BClle und nicht des Mangels? "Wer lehrt, l=
+ernt doppelt" sagte schon Goethe.<br>
+<br>
+<br>
+<strong>16 =E2=80=93&nbsp;</strong>Wird der realistische Zeithorizont kommu=
+niziert und nicht irgendwelche unrealistischen Versprechen gemacht, nur um=
+ euch abzuschlie=C3=9Fen?<br>
+<br>
+<br>
+Wenn du =C3=BCberall einen Haken dranmachen kannst, wird=E2=80=99s top f=C3=
+=BCr euch. =E2=9C=85<br>
+<br>
+<br>
+<strong>Zum Video:</strong><br>
+<br>
+Ich habe ein neues YouTube-Video ver=C3=B6ffentlicht, wo ich alle Praxisbei=
+spiele + ein weiteres Kriterium zeige, das alle f=C3=BCr super wichtig halt=
+en, das du aber unbedingt vergessen solltest:<br>
+<br>
+=F0=9F=91=89&nbsp;<a href=3D"https://xhauer.us20.list-manage.com/track/clic=
+k?u=3D7dd84a598ac78e0ca541cea95&id=3D8034224fcc&e=3Ddecc2bb769" target=3D"_=
+blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decora=
+tion: underline;"><font color=3D"red"><b>MailScanner has detected a possibl=
+e fraud attempt from "xhauer.us20.list-manage.com" claiming to be</b></font=
+> https://youtu.be/U5RIUFniius</a><br>
+<br>
+Schau gern rein. Lohnt sich.<br>
+<br>
+Hier geht's zum Video:&nbsp;<br>
+<br>
+<a href=3D"https://xhauer.us20.list-manage.com/track/click?u=3D7dd84a598ac7=
+8e0ca541cea95&id=3D0c67358852&e=3Ddecc2bb769" target=3D"_blank" style=3D"ms=
+o-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">=
+<img data-file-id=3D"2930940" height=3D"169" src=3D"https://mcusercontent.c=
+om/7dd84a598ac78e0ca541cea95/images/c7f25bdd-fb67-b36e-c1bf-d3665794dc5c.jp=
+g" style=3D"border: 0px;width: 300px;height: 169px;margin: 0px;outline: non=
+e;text-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"300"></a=
+><br>
+<br>
+<span>Lass mir gerne deine Gedanken als Kommentar unter dem Video.</span><b=
+r>
+<br>
+<br>
+Viel Freude beim Ansehen,<br>
+<br>
+Dein Michael<br>
+<br>
+<span><a href=3D"https://xhauer.us20.list-manage.com/track/click?u=3D7dd84a=
+598ac78e0ca541cea95&id=3D6e001b3240&e=3Ddecc2bb769" style=3D"mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;c=
+olor: #007C89;font-weight: normal;text-decoration: underline;"><img data-fi=
+le-id=3D"1801948" height=3D"220" src=3D"https://mcusercontent.com/7dd84a598=
+ac78e0ca541cea95/images/98493da2-f537-d5fa-aacd-3c02fbf419d8.jpg" style=3D"=
+border: 0px initial;width: 220px;height: 220px;margin: 0px;outline: none;te=
+xt-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"220"></a></s=
+pan><br>
+<br>
+<br>
+<strong>PS:</strong><br>
+Melde dich an zum Live-Stream am Dienstag 14.1. um 12 Uhr "Sichtbarkeit + L=
+ead-Generierung mit LinkedIn unter Marktpreis" =E2=9E=94 <a href=3D"https:/=
+/xhauer.us20.list-manage.com/track/click?u=3D7dd84a598ac78e0ca541cea95&id=
+=3D993d19eda1&e=3Ddecc2bb769" target=3D"_blank" style=3D"mso-line-height-ru=
+le: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color=
+: #007C89;font-weight: normal;text-decoration: underline;">Hier anmelden</a=
+><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateBody" styl=
+e=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;border-top: 0;border-bottom: 0;"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+		=09
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: colla=
+pse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;float: left;" width=3D"100%" class=3D"mcnTex=
+tContentContainer">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18=
+px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;word-break: break-word;color: #202020;font-family: Helvetic=
+a;font-size: 16px;line-height: 150%;text-align: left;">
+
+                            <br>
+<span style=3D"font-size:11px"><span style=3D"color:#A9A9A9">Ich sende dir=
+ und =C3=BCber 20.000 Entscheidern und Marketing-Verantwortlichen jede Woche =
+handkuratierte Inspirationen zu B2B-Marketing, die es so nirgends anders g=
+ibt.&nbsp;Du kannst dich jederzeit&nbsp;</span><a href=3D"https://xhauer.us=
+20.list-manage.com/unsubscribe?u=3D7dd84a598ac78e0ca541cea95&id=3D470126440=
+0&t=3Db&e=3Ddecc2bb769&c=3D05bc51e5d4" target=3D"_blank" style=3D"mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #007C89;font-weight: normal;text-decoration: underline;"><span s=
+tyle=3D"color:#A9A9A9">hier</span></a><span style=3D"color:#A9A9A9">&nbsp;a=
+bmelden. Antworte mir gerne auf diese E-Mail, ich lese und schreibe immer p=
+ers=C3=B6nlich.<br>
+<br>
+Michael Asshauer =E2=80=A2 Gr=C3=BCnder &amp; Gesch=C3=A4ftsf=C3=BChrer =E2=
+=80=A2 XHAUER Media GmbH =E2=80=A2 Zollergasse 13 =E2=80=A2 1070 Wien =E2=
+=80=A2 FN571965a Handelsgericht Wien =E2=80=A2 Ust. ID: ATU77725259 =E2=80=
+=A2 </span><a href=3D"https://xhauer.us20.list-manage.com/track/click?u=3D7=
+dd84a598ac78e0ca541cea95&id=3D038e88d6d1&e=3Ddecc2bb769" target=3D"_blank"=
+ style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: u=
+nderline;"><font color=3D"red"><b>MailScanner has detected a possible fraud =
+attempt from "xhauer.us20.list-manage.com" claiming to be</b></font> <span =
+style=3D"color:#A9A9A9">michael.asshauer@xhauer.com</span></a><span style=
+=3D"color:#A9A9A9">&nbsp;=E2=80=A2 </span><a href=3D"https://xhauer.us20.li=
+st-manage.com/track/click?u=3D7dd84a598ac78e0ca541cea95&id=3D5129b7f00f&e=
+=3Ddecc2bb769" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-=
+weight: normal;text-decoration: underline;"><font color=3D"red"><b>MailScan=
+ner has detected a possible fraud attempt from "xhauer.us20.list-manage.com=
+" claiming to be</b></font> <span style=3D"color:#A9A9A9">xhauer.com</span>=
+</a></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateFooter" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;border-top: 0;border-bottom: 0;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnDividerBlock"=
+ style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;table-layout: fixed !important;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"min-width: 100%;pad=
+ding: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"min-width: 100%;border-top=
+: 2px solid #EAEAEA;border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-line-height-rule: exactly;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+<!--
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;"=
+>
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]-->
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://www.mailscanner.eu/1x1spacer.gif" width=3D"1" height=
+=3D"1" alt=3D"Web Bug from https://xhauer.us20.list-manage.com/track/open.p=
+hp?u=3D7dd84a598ac78e0ca541cea95&id=3D05bc51e5d4&e=3Ddecc2bb769" /></body>
+</html>
+--_----------=_MCPart_2060981469--

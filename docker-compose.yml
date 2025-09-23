@@ -1,0 +1,27 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - ./.env
+    environment:
+      OPAL_API_KEY: "my-secret-key"      # will be overridden by .env if present
+      QUERY_SCRIPT: "query_data2.py"
+      OLLAMA_HOST: "http://host.docker.internal:11434"
+      FRONTEND_ORIGINS: "http://localhost:5173"
+    ports:
+      - "9000:9000"
+    volumes:
+      # live-reload code
+      - ./:/app
+      # persist uploads and chroma index
+      - rag_data:/app/data
+      - rag_chroma:/app/chroma
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+
+volumes:
+  rag_data:
+  rag_chroma:

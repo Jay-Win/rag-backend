@@ -1,0 +1,19 @@
+From: Sarah Klein <sarah.klein@example.com>
+To: Team OPAL <opal-team@example.com>
+Date: 2025-08-12 09:30
+Subject: Kickoff Notes – Project OPAL
+
+Hi everyone,  
+
+As discussed in yesterday’s kickoff, here’s the official role assignment:  
+- Backend integration (FastAPI, Chroma): Marco Weber  
+- Frontend (Svelte/Tailwind UI): Julia Schmidt  
+- AI/Data pipelines (OpenAI + Ollama models): Thomas Nguyen  
+
+Other details:  
+- Budget cap for this phase: €45,000  
+- Target milestone: **First demo October 15, 2025**  
+- Weekly sync: every **Tuesday 14:00 CET**  
+
+Regards,  
+Sarah

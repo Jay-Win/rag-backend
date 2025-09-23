@@ -10,9 +10,14 @@
 #     return embeddings
 
 
+import os
 from langchain_ollama import OllamaEmbeddings
 
 def get_embedding_function():
-    # Uses your local Ollama at http://localhost:11434
-    # If your Ollama runs elsewhere, add base_url="http://HOST:11434"
-    return OllamaEmbeddings(model="nomic-embed-text")
+    base_url = os.getenv("OLLAMA_HOST", "http://localhost:11434")  # <-- read env
+    model = os.getenv("OLLAMA_EMBED_MODEL", "nomic-embed-text")    # pick yours
+
+    return OllamaEmbeddings(
+        model=model,
+        base_url=base_url,  # <-- IMPORTANT
+    )

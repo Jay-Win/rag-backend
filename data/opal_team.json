@@ -1,0 +1,11 @@
+{
+  "project": "OPAL",
+  "kickoff_date": "2025-08-12",
+  "roles": {
+    "frontend": "Julia Schmidt",
+    "backend": "Marco Weber",
+    "project_manager": "Sarah Klein",
+    "ml_engineer": "Thomas Nguyen"
+  },
+  "notes": "Frontend will focus on React + Tailwind. Backend integrates FastAPI with Chroma."
+}

@@ -1,0 +1,18 @@
+From: Julia Schmidt <julia.schmidt@example.com>
+To: OPAL Engineering Team <opal-team@example.com>
+Date: 2025-08-18 16:12
+Subject: UI scaffolding progress
+
+Hello,  
+
+UI scaffolding is complete. Initial views:  
+- Dashboard (API health + indexed docs)  
+- Query console (with model selector)  
+- File management (upload + delete)  
+
+Questions for Marco:  
+- Can you confirm if the `/files/index-status` endpoint supports filtering by filename?  
+- Should I add **X-API-KEY** as default header, or keep optional?  
+
+Thanks,  
+Julia

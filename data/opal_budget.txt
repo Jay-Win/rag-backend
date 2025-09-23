@@ -1,0 +1,15 @@
+From: Sarah Klein <sarah.klein@example.com>
+To: Finance <finance@example.com>
+Cc: OPAL Management <opal-mgmt@example.com>
+Date: 2025-08-22 09:05
+Subject: Budget allocation – OPAL Phase 1
+
+Dear Finance team,  
+
+Please allocate €45,000 to cost center **OPAL-P1**. Breakdown:  
+- Development: €30,000  
+- Infrastructure (servers, licenses): €10,000  
+- Contingency: €5,000  
+
+Regards,  
+Sarah

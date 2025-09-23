@@ -1,0 +1,16 @@
+From: Thomas Nguyen <thomas.nguyen@example.com>
+To: Sarah Klein <sarah.klein@example.com>
+Cc: Julia Schmidt <julia.schmidt@example.com>, Marco Weber <marco.weber@example.com>
+Date: 2025-08-21 10:45
+Subject: Embeddings test results
+
+Hi Sarah,  
+
+I benchmarked two approaches:  
+1. **OpenAI text-embedding-3-small** – precise but higher latency (~350ms per query).  
+2. **Ollama llama3 embeddings** – faster locally (~120ms), but noisier results in my experiments.  
+
+Recommendation: start with OpenAI embeddings for official milestone, but keep Ollama running for dev testing.  
+
+Regards,  
+Thomas

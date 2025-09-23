@@ -1,0 +1,13 @@
+{
+  "project": "AURORA",
+  "phase": "Prototype",
+  "allocated_budget": 60000,
+  "currency": "EUR",
+  "breakdown": {
+    "development": 40000,
+    "research": 15000,
+    "contingency": 5000
+  },
+  "approved_by": "Daniel Fischer",
+  "date": "2025-07-15"
+}

@@ -1,0 +1,20 @@
+From: Daniel Fischer <daniel.fischer@example.com>
+To: Team AURORA <aurora-team@example.com>
+Date: 2025-07-02 10:00
+Subject: Kickoff Notes – Project AURORA
+
+Hello team,  
+
+Assignments for Project AURORA:  
+- Frontend (React/Next.js): Laura Meier  
+- Backend (Node.js + PostgreSQL): Amir Khan  
+- AI/ML (HuggingFace Transformers): Elena Petrova  
+
+Milestones:  
+- Prototype demo: **September 30, 2025**  
+- Final delivery: December 2025  
+
+Budget: €60,000  
+
+Regards,  
+Daniel

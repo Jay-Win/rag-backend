@@ -45,3 +45,5 @@ py query_data.py "How do you win in Monopoly?" --fetch-k 80 --k 12 --max-context
 
 # Use another Ollama model
 py query_data.py "Give me a summary of the OPAL software concept" --model llama3
+
+

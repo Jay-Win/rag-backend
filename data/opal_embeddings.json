@@ -1,0 +1,11 @@
+{
+  "project": "OPAL",
+  "author": "Thomas Nguyen",
+  "date": "2025-08-21",
+  "benchmark": {
+    "approach_1": "OpenAI text-embedding-3-large",
+    "approach_2": "local fastText baseline",
+    "recommendation": "Use OpenAI embeddings for milestone 1"
+  },
+  "comments": "Better semantic recall and clustering for internal test corpus."
+}

@@ -1,7 +1,67 @@
-pypdf
-langchain>=0.2
-langchain-community>=0.2
+# pypdf
+# langchain>=0.2
+# langchain-community>=0.2
+# langchain-text-splitters>=0.2
+# chromadb
+# pytest
+# boto3
+# fastapi
+# uvicorn
+# pydantic
+# langchain
+# langchain-core
+# langchain-community
+# langchain-chroma
+# langchain-ollama
+# chromadb
+# unstructured
+# pypandoc
+# python-docx
+# reportlab
+# openpyxl
+# python-pptx
+# odfpy
+# email
+# tiktoken
+# ctranslate2
+# python-multipart
+# pyyaml
+# pillow
+# pytesseract
+# pypdf
+# unstructured
+# python-magic-bin
+# python-multipart==0.0.9
+
+# --- API / framework ---
+fastapi>=0.111
+uvicorn[standard]>=0.29
+pydantic>=2.6
+
+# --- DB ---
+SQLAlchemy>=2.0
+
+# --- YAML / misc ---
+PyYAML>=6.0.1
+
+# --- LangChain core pieces you import ---
+langchain-core>=0.2
 langchain-text-splitters>=0.2
-chromadb
-pytest
-boto3
+langchain-chroma>=0.1
+langchain-ollama>=0.1
+langchain-community>=0.2  # for Unstructured* and PyPDF loaders
+
+# --- Vector DB (used by langchain_chroma) ---
+chromadb>=0.5
+
+# --- Ollama Python client (HTTP) ---
+ollama>=0.3
+
+# --- PDF / DOCX / DOC / MD / TXT loaders you ENABLED ---
+pypdf>=4.2           # required by langchain_community PyPDFLoader
+unstructured>=0.14   # UnstructuredWordDocumentLoader / UnstructuredMarkdownLoader
+python-docx>=1.1     # often needed alongside unstructured for docx parsing
+docx2txt>=0.8        # your .doc loader imports Docx2txtLoader
+
+# --- File uploads for FastAPI ---
+python-multipart>=0.0.9

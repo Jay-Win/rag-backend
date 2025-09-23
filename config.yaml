@@ -4,16 +4,17 @@ chroma_path: "chroma"
 loaders:
   pdf: true
   docx: true
-  pptx: true
-  html: true
-  csv: true
+  json: true
+  pptx: false
+  html: false
+  csv: false
   doc: true
-  rtf: true
+  rtf: false
   md: true
   txt: true
-  excel: true
-  images_ocr: true
-  video: true
+  excel: false
+  images_ocr: false
+  video: false
   
 chunking:
   text:
