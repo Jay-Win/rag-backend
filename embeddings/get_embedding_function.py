@@ -14,7 +14,7 @@ import os
 from langchain_ollama import OllamaEmbeddings
 
 def get_embedding_function():
-    base_url = os.getenv("OLLAMA_HOST", "http://localhost:11434")  # <-- read env
+    base_url = os.getenv("OLLAMA_HOST", "http://h01.m5.jay-win.de:11434")  # <-- read env
     model = os.getenv("OLLAMA_EMBED_MODEL", "nomic-embed-text")    # pick yours
 
     return OllamaEmbeddings(

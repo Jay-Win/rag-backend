@@ -10,7 +10,7 @@ from ollama import Client
 
 # ---- Config (env overridable) ----
 CHROMA_PATH = os.getenv("CHROMA_PATH", "chroma")
-OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
+OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://h01.m5.jay-win.de:11434")
 EMBED_MODEL = os.getenv("OLLAMA_EMBED_MODEL", "nomic-embed-text")
 
 PROMPT_TEMPLATE = """

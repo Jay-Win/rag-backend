@@ -36,6 +36,7 @@ DATA_PATH = DATA_DIR
 ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
+    "https://lucid-dubinsky.195-30-15-67.plesk.page",
 ]
 extra = os.getenv("FRONTEND_ORIGINS")
 if extra:

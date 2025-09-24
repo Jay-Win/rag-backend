@@ -9,7 +9,7 @@ services:
       OPAL_API_KEY: "my-secret-key"      # will be overridden by .env if present
       QUERY_SCRIPT: "query_data2.py"
       OLLAMA_HOST: "http://host.docker.internal:11434"
-      FRONTEND_ORIGINS: "http://localhost:5173"
+      FRONTEND_ORIGINS: "https://lucid-dubinsky.195-30-15-67.plesk.page"
     ports:
       - "9000:9000"
     volumes:
