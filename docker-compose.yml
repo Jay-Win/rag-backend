@@ -1,10 +1,8 @@
 services:
   backend:
     build:
-      context: .
+      context: https://github.com/Jay-Win/rag-backend.git
       dockerfile: Dockerfile
-    env_file:
-      - ./.env
     environment:
       OPAL_API_KEY: "my-secret-key"      # will be overridden by .env if present
       QUERY_SCRIPT: "query_data2.py"
@@ -14,7 +12,7 @@ services:
       - "9000:9000"
     volumes:
       # live-reload code
-      - ./:/app
+      # - ./:/app
       # persist uploads and chroma index
       - rag_data:/app/data
       - rag_chroma:/app/chroma
